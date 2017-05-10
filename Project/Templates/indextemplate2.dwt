@@ -1,0 +1,92 @@
+<!doctype html>
+<html> 
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Elementary Home</title>
+<link href="../css/multiColumnTemplate.css" rel="stylesheet" type="text/css">
+<link href="../css/project.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+
+</style>
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+<!--The following script tag downloads a font from the Adobe Edge Web Fonts server for use within the web page. We recommend that you do not modify it.-->
+<script>var __adobewebfontsappname__="dreamweaver"</script>
+<script src="http://use.edgefonts.net/alex-brush:n4:default.js" type="text/javascript"></script>
+
+</head>
+<body>
+<div class="container">
+ <header>
+ 
+
+    <div class="primary_header">
+		<h1 class="title"> Elementary School</h1>
+   </div>
+    <nav class="secondary_header" id="menuindex">
+      <ul>
+        <li><a href="../index.html">Home</a></li>
+     	<li><a href="../first.html">1st</a></li>
+        <li><a href="../second.html">2nd</a></li>
+         <li><a href="../third.html">3rd</a></li>
+		  <li><a href="../fourth.html">4th</a></li>
+        <li><a href="../fifth.html">5th</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section>
+    <h2 class="noDisplay">Main Content</h2>
+    <article class="left_article"><!-- TemplateBeginEditable name="About" -->
+      <h3>About </h3>
+    <!-- TemplateEndEditable --><!-- InstanceBeginEditable name="about p" -->
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+      <!-- InstanceEndEditable --></article>
+    <aside class="right_article"><!-- InstanceBeginEditable name="main photo" --><img src="../images/placeholder.jpg" alt="" width="400" height="200" class="placeholder"/><!-- InstanceEndEditable --></aside>
+  </section>
+  
+  <div class="row blockDisplay">
+   
+    <div class="column_half left_half">
+     <!-- InstanceBeginEditable name="left col title" -->
+      <h2>Reminders</h2><!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="left col p" -->
+		<p>Sample text here</p>
+   <!-- InstanceEndEditable --></div>
+    
+    <div class="column_half right_half">
+     <!-- InstanceBeginEditable name="right col title" -->
+      <h2 class="column_title">Upcoming Events</h2><!-- InstanceEndEditable -->
+      <!-- InstanceBeginEditable name="right col p" -->
+    <p><ul>
+    <li>Lorem ipsum</li>
+    <li> Lorem ipsum</li>
+    <li>Lorem ipsum</li>
+    <li> Lorem ipsum</li>
+    </ul></p><!-- InstanceEndEditable --></div>
+    
+  </div>
+  
+  
+  
+  <div class="social"><!-- InstanceBeginEditable name="social photo 1" -->
+  <p class="social_icon"><img src="../images/bkg_06.jpg" width="100" alt="" class="thumbnail"/></p>
+  <!-- InstanceEndEditable -->
+    <p class="social_icon"><!-- InstanceBeginEditable name="social photo 2" --><img src="../images/bkg_06.jpg" width="100" alt="" class="thumbnail"/><!-- InstanceEndEditable --></p>
+    <p class="social_icon"><!-- InstanceBeginEditable name="social photo 3" --><img src="../images/bkg_06.jpg" width="100" alt="" class="thumbnail"/><!-- InstanceEndEditable --></p>
+    <p class="social_icon"><!-- InstanceBeginEditable name="social photo 4" --><img src="../images/bkg_06.jpg" width="100" alt="" class="thumbnail"/><!-- InstanceEndEditable --></p>
+  </div>
+  <footer class="secondary_header footer">
+    <div class="copyright">&copy;2017 - Julie Adams</div>
+  </footer>
+</div>
+</body>
+ </html>

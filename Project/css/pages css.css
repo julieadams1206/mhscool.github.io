@@ -1,0 +1,6 @@
+@charset "utf-8";
+.container header #menu.secondary_header {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	height: 40px;
+}
